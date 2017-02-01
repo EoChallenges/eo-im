@@ -1,7 +1,7 @@
 ---
-title: My page
-permalink: mypageurl.html
+title: Challenges to the Executive Order of 27 Jan 2017
+permalink: index.html
 ---
 Hello
-* test _a_
-* test b
+- test _a_
+- test b
