@@ -8,7 +8,8 @@ permalink: index.html
   + Boston judge lets MA TRO expire 
 
 ## Cases
-
+* Seattle (WDWA):
+  + 2017-02-03 TRO [(PDF Linked here)](../wdwa/2017-02-03_WDWA_TRO.pdf)
 
 ## Executive
   + Executive Order [WH Link][11]
