@@ -16,7 +16,7 @@ permalink: index.html
   + State of Washington v. Trump et al. 2:17-cv-00141-JLR (D. Wash.) :
     + **Status**: Appealed by Govt 17-35105
                   TRO issued asserting nationwide restraint on Executive Order
-    + 2017-02-03 TRO [(PDF Linked here)](../wdwa/2017-02-03_WDWA_TRO.pdf)
+    + 2017-02-03 TRO [(PDF Linked here)](/wdwa/2017-02-03_WDWA_TRO.pdf)
   + Ali V. Trump, et al., 2:17-cv-00135 (D. Wash. filed January 30, 2017)
     + **Status**: [will update]
 
@@ -25,12 +25,12 @@ permalink: index.html
     + (WIP)
   + Louhghalam et al. v. Trump et al. 1:17-cv-10154-NMG (D. Mass): 
     + **Status**: TRO imposed on 2017-01-29 (Sat) and will expire 02-05 (Sun)
-    + 2017-02-03 Decision [(PDF Linked here)](../mad/2017_02_03_TRO.pdf)
+    + 2017-02-03 Decision [(PDF Linked here)](/mad/2017_02_03_TRO.pdf)
 
 
 * NY: Darweesh et al. v Trump et al. 1:17-cv-00480 (E.D.N.Y.)
   + **Status**: TRO until Feb 21
-  + [TRO](../edny1/2017_01_28_EDNY_Order.pdf)
+  + [TRO](/edny1/2017_01_28_EDNY_Order.pdf)
   + Docket 40: the TRO is extended until February 21, 2017 
 * Detroit: 2:17-cv-10310 (E.D.Mi.)
   + **Status**: [will update]
