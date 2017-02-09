@@ -28,8 +28,10 @@ permalink: index.html
     + 2017-02-03 Decision [(PDF Linked here)](../mad/2017_02_03_TRO.pdf)
 
 
-* NY: Darweesh et al. v Trump et al. 1:17-cv-00480 (EDNY)
+* NY: Darweesh et al. v Trump et al. 1:17-cv-00480 (E.D.N.Y.)
   + **Status**: [will update]
+  + [TRO](../edny/2017_01_28_EDNY_TRO.pdf)
+  + Docket 40: the TRO is extended until February 21, 2017 
 * Detroit:
   + **Status**: [will update]
 * Los Angeles
@@ -37,7 +39,8 @@ permalink: index.html
 
 
 ### Executive
-  + Executive Order [WH Link][11]
+  + Executive Order 13769 [WH Link][11] [Wikipedia][14]
+
   + Dept State Letter rescinding Visas [Politico Link][12]
   + CBP 2017-02-03 [DHS Statement][13]
 
@@ -59,5 +62,7 @@ Please share any missing key info with eochallenges@gmail.com
 [11]: https://www.whitehouse.gov/the-press-office/2017/01/27/executive-order-protecting-nation-foreign-terrorist-entry-united-states
 [12]: http://www.politico.com/f/?id=00000159-f6bd-d173-a959-ffff671a0001
 [13]: https://www.dhs.gov/news/2017/02/03/statement-countries-currently-suspended-travel-united-states
+[14]:   https://en.wikipedia.org/wiki/Legal_challenges_to_Executive_Order_13769
+
 
 
