@@ -29,10 +29,10 @@ permalink: index.html
 
 
 * NY: Darweesh et al. v Trump et al. 1:17-cv-00480 (E.D.N.Y.)
-  + **Status**: [will update]
-  + [TRO](../edny/2017_01_28_EDNY_TRO.pdf)
+  + **Status**: TRO until Feb 21
+  + [TRO](../edny1/2017_01_28_EDNY_Order.pdf)
   + Docket 40: the TRO is extended until February 21, 2017 
-* Detroit:
+* Detroit: 2:17-cv-10310 (E.D.Mi.)
   + **Status**: [will update]
 * Los Angeles
   + **Status**: [will update]
